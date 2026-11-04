@@ -1,0 +1,12 @@
+# Compilação
+out/
+*.class
+
+# Dados reais nunca entram no repositório
+*.xlsx
+PEDIDOS_UNIFORME*
+catalogo_uniformes*
+sugestoes_uniformes*
+
+# Chaves e configurações locais
+.env
