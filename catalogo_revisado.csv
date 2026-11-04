@@ -1,0 +1,31 @@
+﻿id,titulo,preco,categoria,estoque
+1,Camiseta Básica Preta,49.90,Roupas,120
+2,Tênis Corrida Pro,299.90,Calçados,45
+3,Mochila Urbana 20L,159.00,Acessórios,30
+4,Fone Bluetooth X1,129.90,Eletrônicos,80
+5,Caneca Térmica 500ml,59.90,Casa,200
+6,Camiseta Básica Preta,49.90,Roupas,60
+7,,89.90,Roupas,40
+8,Relógio Digital Sport,-199.90,Acessórios,25
+9,Garrafa Inox 750ml,abc,Casa,90
+10,Jaqueta Jeans,249.90,,15
+11,Smartwatch Fit 2,0,Eletrônicos,35
+12,Cadeira Gamer Ergo,1299.00,Móveis,10
+13,Luminária de Mesa LED,79.90,Casa,55
+14,Tênis Corrida Pro,299.90,Calçados,20
+15,Mouse Sem Fio,69.90,Eletrônicos,
+16,Teclado Mecânico RGB,349.90,Eletrônicos,22
+17,Bermuda Cargo,,Roupas,70
+18,Vestido Floral,139.90,Roupas,33
+19,Fone Bluetooth X1,129.90,Eletrônicos,10
+20,Panela Antiaderente 24cm,119,90,Casa,18
+21,Cinto de Couro,59.90,Acessórios,40
+22,Óculos de Sol Aviador,189.90,Acessórios,12
+23,Notebook Pro 15,4999.00,Eletrônicos,8
+24,Mochila Urbana 20L,159.00,Acessórios,12
+25,Meia Esportiva Kit 3,29.90,Roupas,300
+26,Câmera de Segurança Wi-Fi,R$199.90,Eletrônicos,14
+27,Tapete de Sala 2x3m,349.90,Casa,6
+28,   ,99.90,Casa,10
+29,Suporte para Notebook,89.90,Acessórios,5
+30,Carregador Turbo 65W,129.90,Eletrônicos,60

@@ -1,0 +1,31 @@
+id;titulo_original;titulo_sugerido;motivo
+1;Camiseta Básica Preta;Camiseta Básica Preta;"Título já adequado e mantido sem alterações. Está duplicado com o id 6; o lojista deve conferir a duplicidade."
+2;Tênis Corrida Pro;Tênis Corrida Pro;"Título já adequado e mantido sem alterações. Está duplicado com o id 14; o lojista deve conferir a duplicidade."
+3;Mochila Urbana 20L;Mochila Urbana 20L;"Título já adequado e mantido sem alterações. Está duplicado com o id 24; o lojista deve conferir a duplicidade."
+4;Fone Bluetooth X1;Fone Bluetooth X1;"Título já adequado e mantido sem alterações. Está duplicado com o id 19; o lojista deve conferir a duplicidade."
+5;Caneca Térmica 500ml;Caneca Térmica 500ml;Título já adequado e mantido sem alterações.
+6;Camiseta Básica Preta;Camiseta Básica Preta;"Título já adequado e mantido sem alterações. Está duplicado com o id 1; o lojista deve conferir a duplicidade."
+7;;;"Produto sem título; o lojista precisa informá-lo."
+8;Relógio Digital Sport;Relógio Digital Sport;Título já adequado e mantido sem alterações.
+9;Garrafa Inox 750ml;Garrafa Inox 750ml;Título já adequado e mantido sem alterações.
+10;Jaqueta Jeans;Jaqueta Jeans;Título já adequado e mantido sem alterações.
+11;Smartwatch Fit 2;Smartwatch Fit 2;Título já adequado e mantido sem alterações.
+12;Cadeira Gamer Ergo;Cadeira Gamer Ergo;Título já adequado e mantido sem alterações.
+13;Luminária de Mesa LED;Luminária de Mesa LED;Título já adequado e mantido sem alterações.
+14;tênis corrida pro;Tênis Corrida Pro;"Corrigidas as maiúsculas. Está duplicado com o id 2; o lojista deve conferir a duplicidade."
+15;Mouse Sem Fio;Mouse Sem Fio;Título já adequado e mantido sem alterações.
+16;Teclado Mecânico RGB;Teclado Mecânico RGB;Título já adequado e mantido sem alterações.
+17;Bermuda Cargo;Bermuda Cargo;Título já adequado e mantido sem alterações.
+18;Vestido Floral;Vestido Floral;Título já adequado e mantido sem alterações.
+19;  Fone Bluetooth   X1  ;Fone Bluetooth X1;"Removidos os espaços extras. Está duplicado com o id 4; o lojista deve conferir a duplicidade."
+20;Panela Antiaderente 24cm;Panela Antiaderente 24cm;Título já adequado e mantido sem alterações.
+21;Cinto de Couro;Cinto de Couro;Título já adequado e mantido sem alterações.
+22;Óculos de Sol Aviador;Óculos de Sol Aviador;Título já adequado e mantido sem alterações.
+23;Notebook Pro 15;Notebook Pro 15;Título já adequado e mantido sem alterações.
+24;Mochila Urbana 20L;Mochila Urbana 20L;"Título já adequado e mantido sem alterações. Está duplicado com o id 3; o lojista deve conferir a duplicidade."
+25;Meia Esportiva Kit 3;Meia Esportiva Kit 3;Título já adequado e mantido sem alterações.
+26;Câmera de Segurança Wi-Fi;Câmera de Segurança Wi-Fi;Título já adequado e mantido sem alterações.
+27;Tapete Sala 2x3m;Tapete de Sala 2x3m;"Acrescentada a palavra de ligação ""de""."
+28;   ;;"Produto sem título; o lojista precisa informá-lo."
+29;Suporte para Notebook;Suporte para Notebook;Título já adequado e mantido sem alterações.
+30;Carregador Turbo 65W;Carregador Turbo 65W;Título já adequado e mantido sem alterações.

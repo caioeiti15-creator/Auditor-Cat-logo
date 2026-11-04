@@ -1,0 +1,19 @@
+﻿Linha;SKU;Erro plantado;Auditor deve detectar?;Observação
+38;ERR-001;Preço vazio;sim;Preço não informado
+39;ERR-002;Preço negativo;sim;Sinal de menos no preço
+40;ERR-003;Preço zero;sim;Preço igual a zero
+41;ERR-004;Preço com moeda;sim;Símbolo de moeda dentro do preço
+42;ERR-005;Preço em texto;sim;Texto no lugar do preço
+43;ERR-006;Estoque negativo;sim;Estoque abaixo de zero
+44;ERR-007;Estoque em texto;sim;Texto no lugar do estoque
+45;ERR-008;Estoque vazio;sim;Estoque não informado
+46;ERR-009;Título vazio;sim;Produto sem nome
+47;ERR-010;Categoria vazia;sim;Categoria não informada
+48;;SKU vazio;sim;Produto sem SKU
+49;ERR-012;Título em minúsculas;não como erro;Deve ser corrigido nas sugestões
+50;ERR-013;Espaços extras;não como erro;Deve ser corrigido nas sugestões
+51;ERR-014;Cor e tamanho invertidos;não;Limitação: o auditor não conhece os valores válidos
+52;CAM-002;SKU repetido;não;Limitação: repetição de SKU só é checada ao validar sugestões
+53;DUP-001;Produto duplicado de verdade;sim;Mesmo produto cadastrado duas vezes
+54;ERR-015;Colunas erradas;sim;Ponto e vírgula sem aspas na descrição
+55;OK-001;Controle válido;não deve acusar;Descrição com ponto e vírgula entre aspas

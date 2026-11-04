@@ -1,0 +1,55 @@
+SKU;Nome;Marca;Categoria;Cor;Tamanho;Preço;Estoque;Descrição
+CAM-001;Camiseta Básica Algodão;Trilha Clara;Roupas;Preta;P;59,90;12;Camiseta 100% algodão, gola redonda, modelagem regular.
+CAM-002;Camiseta Básica Algodão;Trilha Clara;Roupas;Preta;M;59,90;20;Camiseta 100% algodão, gola redonda, modelagem regular.
+CAM-003;Camiseta Básica Algodão;Trilha Clara;Roupas;Preta;G;59,90;18;Camiseta 100% algodão, gola redonda, modelagem regular.
+CAM-004;Camiseta Básica Algodão;Trilha Clara;Roupas;Branca;P;59,90;9;Camiseta 100% algodão, gola redonda, modelagem regular.
+CAM-005;Camiseta Básica Algodão;Trilha Clara;Roupas;Branca;M;59,90;15;Camiseta 100% algodão, gola redonda, modelagem regular.
+CAM-006;Camiseta Básica Algodão;Trilha Clara;Roupas;Branca;G;59,90;11;Camiseta 100% algodão, gola redonda, modelagem regular.
+CAL-001;Calça Jeans Reta;Trilha Clara;Roupas;Azul;38;189,90;6;Calça jeans com elastano e cinco bolsos.
+CAL-002;Calça Jeans Reta;Trilha Clara;Roupas;Azul;40;189,90;8;Calça jeans com elastano e cinco bolsos.
+CAL-003;Calça Jeans Reta;Trilha Clara;Roupas;Azul;42;189,90;7;Calça jeans com elastano e cinco bolsos.
+CAL-004;Calça Jeans Reta;Trilha Clara;Roupas;Preta;38;189,90;5;Calça jeans com elastano e cinco bolsos.
+CAL-005;Calça Jeans Reta;Trilha Clara;Roupas;Preta;40;189,90;9;Calça jeans com elastano e cinco bolsos.
+CAL-006;Calça Jeans Reta;Trilha Clara;Roupas;Preta;42;189,90;4;Calça jeans com elastano e cinco bolsos.
+TEN-001;Tênis Caminhada Leve;Passo Firme;Calçados;Cinza;38;249,90;4;Tênis leve com solado de borracha, indicado para caminhadas.
+TEN-002;Tênis Caminhada Leve;Passo Firme;Calçados;Cinza;39;249,90;6;Tênis leve com solado de borracha, indicado para caminhadas.
+TEN-003;Tênis Caminhada Leve;Passo Firme;Calçados;Cinza;40;249,90;7;Tênis leve com solado de borracha, indicado para caminhadas.
+TEN-004;Tênis Caminhada Leve;Passo Firme;Calçados;Cinza;41;249,90;5;Tênis leve com solado de borracha, indicado para caminhadas.
+TEN-005;Tênis Caminhada Leve;Passo Firme;Calçados;Azul;39;249,90;3;Tênis leve com solado de borracha, indicado para caminhadas.
+TEN-006;Tênis Caminhada Leve;Passo Firme;Calçados;Azul;40;249,90;4;Tênis leve com solado de borracha, indicado para caminhadas.
+MOC-001;Mochila Urbana 22L;Rumo Norte;Acessórios;Verde;Único;179,90;14;Mochila com compartimento para notebook de até 15 polegadas.
+MOC-002;Mochila Urbana 22L;Rumo Norte;Acessórios;Preta;Único;179,90;10;Mochila com compartimento para notebook de até 15 polegadas.
+MOC-003;Mochila Urbana 22L;Rumo Norte;Acessórios;Vermelha;Único;179,90;8;Mochila com compartimento para notebook de até 15 polegadas.
+GAR-001;Garrafa Térmica Aço;Casa Serena;Casa;Inox;500ml;79,90;25;Garrafa de aço inoxidável com parede dupla.
+GAR-002;Garrafa Térmica Aço;Casa Serena;Casa;Inox;750ml;99,90;18;Garrafa de aço inoxidável com parede dupla.
+GAR-003;Garrafa Térmica Aço;Casa Serena;Casa;Preta;500ml;79,90;16;Garrafa de aço inoxidável com parede dupla.
+GAR-004;Garrafa Térmica Aço;Casa Serena;Casa;Preta;750ml;99,90;12;Garrafa de aço inoxidável com parede dupla.
+ELE-001;Fone Bluetooth Pulse 2;Onda Sonora;Eletrônicos;Preto;Único;149,90;40;Fone sem fio com estojo carregador.
+ELE-002;Caixa de Som Portátil 20W;Onda Sonora;Eletrônicos;Azul;Único;229,90;16;Caixa de som resistente a respingos.
+ELE-003;Teclado Mecânico Compacto;Bit Forte;Informática;Preto;Único;329,90;13;Teclado compacto com switches táteis.
+ELE-004;Mouse Sem Fio Silencioso;Bit Forte;Informática;Grafite;Único;89,90;35;Mouse com clique silencioso e receptor USB.
+ELE-005;Monitor IPS 24 Polegadas;Bit Forte;Informática;Preto;Único;1.299,90;7;Monitor Full HD com taxa de atualização de 100 Hz.
+CAS-001;Jogo de Panelas Antiaderente 5 Peças;Casa Serena;Casa;Vermelho;Único;399,90;9;Conjunto com cinco peças e tampas de vidro.
+CAS-002;Luminária de Mesa LED;Casa Serena;Casa;Branca;Único;119,90;21;Luminária com três níveis de intensidade.
+CAS-003;Tapete Sala 2x1,5m;Casa Serena;Casa;Bege;Único;279,90;6;Tapete de fibra sintética para sala.
+CAS-004;Jogo de Toalhas 4 Peças;Casa Serena;Casa;Cinza;Único;129,90;19;Jogo com duas toalhas de banho e duas de rosto.
+ACE-001;Cinto de Couro Clássico;Trilha Clara;Acessórios;Marrom;Único;89,90;22;Cinto de couro com fivela de metal.
+ACE-002;Óculos de Sol Aviador;Rumo Norte;Acessórios;Dourado;Único;159,90;17;Óculos com proteção UV400.
+ERR-001;Sandália Conforto;Passo Firme;Calçados;Bege;37;;8;Sandália com palmilha macia.
+ERR-002;Boné Aba Curva;Rumo Norte;Acessórios;Preto;Único;-49,90;14;Boné ajustável.
+ERR-003;Meia Esportiva Kit 3;Passo Firme;Roupas;Branca;Único;0,00;50;Kit com três pares.
+ERR-004;Carteira Slim;Trilha Clara;Acessórios;Preta;Único;R$ 69,90;20;Carteira compacta de couro sintético.
+ERR-005;Cadeira Escritório Ergo;Bit Forte;Móveis;Preta;Único;consultar;3;Cadeira com regulagem de altura.
+ERR-006;Suporte para Notebook;Bit Forte;Informática;Prata;Único;99,90;-2;Suporte de alumínio dobrável.
+ERR-007;Hub USB-C 6 em 1;Bit Forte;Informática;Cinza;Único;139,90;dez;Hub com HDMI e leitor de cartões.
+ERR-008;Webcam Full HD;Bit Forte;Informática;Preta;Único;169,90;;Webcam com microfone embutido.
+ERR-009;;Casa Serena;Casa;Branca;Único;49,90;12;Produto sem nome cadastrado.
+ERR-010;Vela Aromática Lavanda;Casa Serena;;Lilás;Único;39,90;30;Vela de cera vegetal.
+;Porta-Retrato Madeira;Casa Serena;Casa;Natural;Único;44,90;15;Porta-retrato para foto 10x15.
+ERR-012;caneca cerâmica 350ml;Casa Serena;Casa;Azul;Único;34,90;40;Caneca de cerâmica.
+ERR-013;  Tábua de Corte   Bambu  ;Casa Serena;Casa;Natural;Único;59,90;18;Tábua de bambu.
+ERR-014;Regata Dry Fit;Trilha Clara;Roupas;M;Preta;69,90;10;Regata de secagem rápida.
+CAM-002;Camiseta Polo Piquet;Trilha Clara;Roupas;Azul;M;119,90;7;SKU repetido de propósito.
+DUP-001;Mouse Sem Fio Silencioso;Bit Forte;Informática;Grafite;Único;89,90;12;Cadastro repetido.
+ERR-015;Sacola Retornável;Rumo Norte;Acessórios;Verde;Único;19,90;60;Sacola dobrável; resistente e lavável.
+OK-001;Abajur "Lua" Cerâmica;Casa Serena;Casa;Branco;Único;149,90;11;"Abajur de cerâmica; cúpula de tecido."
